@@ -8,5 +8,5 @@
 
 ///hardware
 #include "gpio.h"
-
+#include "ws2812.h"
 #endif //SDCC_USER_MAIN_H_

@@ -1,4 +1,4 @@
-cmake_minimum_required(VERSION 3.2)
+cmake_minimum_required(VERSION 3.3)
 
 set(CMAKE_SYSTEM_NAME Generic)
 set(CMAKE_C_COMPILER sdcc)
